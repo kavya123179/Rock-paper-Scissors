@@ -5,7 +5,7 @@
 1) HTML
 2) CSS
 3) JAVASCRIPT
-##Instrucions to Play
+## Instrucions to Play
 Click 'Get Started' button.
 Choose between Rock, Paper or Scissors by clicking in the icon.
 Rock beats Scissors.
